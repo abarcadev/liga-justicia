@@ -10,3 +10,4 @@ Pueden hacer lo que quieran...
 Este es un mensaje editado completamente desde GitHub
 
 ## Estos cambios son nuevos desde mi repositorio local
+## Estos cambios son nuevos desde GitHub
